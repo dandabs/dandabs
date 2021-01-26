@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭​  I code in a lot of languages, just whatever comes to my head first: C#, Java, Nodejs, Lua - really anything.
 
-📫​  If you're looking to contact me, I'm on Discord at dandabs#1498 or email at dandabs@cloudcraftmc.org.uk.
+📫​  If you're looking to contact me, I'm on Discord at dandabs#2088 or email at dandabs@cloudcraftmc.org.uk.
 
 👯​  I'm mainly working on my iOS / Android Minecraft-server app, Vesisika, which you can find more about [here](https://vesisika.app).
 
