@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 
 🔭​  I code in a lot of languages, just whatever comes to my head first: C#, Java, Nodejs, Lua - really anything.
 
-📫​  If you're looking to contact me, I'm on Discord at dandabs#2088 or email at dandabs@cloudcraftmc.org.uk.
+📫​  If you're looking to contact me, I'm on Discord at dandabs#2088 or email at itseni@dandabs.fi.
 
-👯​  I'm mainly working on my iOS / Android Minecraft-server app, Vesisika, which you can find more about [here](https://vesisika.app).
-
-🇫🇮​  I'm pretty obsessed with Finland, and pretty much every Nordic country - I speak 5 out of the 8 Nordic languages (to varying levels of fluency).
-
-🐦​  You should follow my [Twitter](https://twitter.com/dandabsx) and my Github profile, because I post useless stuff nobody will ever need >:)
+👯​  My main project is my iOS / Android Minecraft-server app, Vesisika, which you can find more about ~~[here](https://vesisika.app)~~ nowhere – abandoned.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dandabs&count_private=true&show_icons=true&theme=ayu-mirage&hide=stars,issues,contribs)
