@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Dan | Moi, olen Dan 👋
+# Moi, olen Dan 👋
 
 I'm a 16 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects - get in touch below! I'm living in the UK currently, and immigrating to Finland permanently in 2024.
 
