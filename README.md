@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Moi, olen Dan 👋
 
-I'm a 16 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects - get in touch below! I'm living in the UK currently, and immigrating to Finland permanently in 2024.
+I'm a 16 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects - get in touch below!
 
 ## Contact me elsewhere online 🌎:
 - Website + Portfolio <a href="https://dandabs.fi">https://dandabs.fi</a>
