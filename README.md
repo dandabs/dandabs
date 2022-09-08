@@ -18,7 +18,7 @@ I'm a 17 year old developer who is passionate about learning new things and crea
 
 ## Contact me elsewhere online 🌎:
 - Website + Portfolio <a href="https://dandabs.fi">https://dandabs.fi</a>
-- Instagram <a href="https://instagram.com/thatfakefinn">@thatfakefinn</a>
+- Instagram <a href="https://instagram.com/dandabs">@dandabs</a>
 - Discord @dandabs#2088
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dandabs&theme=dracula&hide=issues&count_private=true&show_icons=true&locale=en&custom_title=dandabs%27%20Github%20Stats&include_all_commits)
