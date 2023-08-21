@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Moi, olen Dan | Hæ, ég er Danni 👋
 
-I'm a 17 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects.
+I'm an 18 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects.
 
 Some of my biggest projects include:
 
@@ -27,6 +27,7 @@ Outside of programming, I'm a very passionate linguist and aspire to be a polygl
 ## Get in touch 🌎:
 - Website + Portfolio <a href="https://dandabs.fi">https://dandabs.io</a>
 - Instagram <a href="https://instagram.com/dandabs">@dandabs</a>
+- LinkedIn <a href="https://linkedin.com/in/dandabs">Daniel Adams</a>
 - Discord dandabs#2088
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dandabs&theme=dracula&hide=issues&count_private=true&show_icons=true&locale=en&custom_title=dandabs%27%20Github%20Stats&include_all_commits)
