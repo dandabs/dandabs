@@ -28,7 +28,7 @@ Outside of programming, I'm a very passionate linguist and aspire to be a polygl
 - Website + Portfolio <a href="https://dandabs.fi">https://dandabs.io</a>
 - Instagram <a href="https://instagram.com/dandabs">@dandabs</a>
 - LinkedIn <a href="https://linkedin.com/in/dandabs">Daniel Adams</a>
-- Discord dandabs#2088
+- Discord dandabs
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dandabs&theme=dracula&hide=issues&count_private=true&show_icons=true&locale=en&custom_title=dandabs%27%20Github%20Stats&include_all_commits)
 
