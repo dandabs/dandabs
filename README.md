@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Moi, olen Dan | Hæ, ég er Danni 👋
 
-I'm an 18 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects.
+I'm a 19 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects.
 
 Some of my biggest projects include:
 
