@@ -4,7 +4,7 @@
 I'm a 19-year-old full-stack software engineer from Northern Ireland 🧑‍🎓. I’m studying towards a BSc (Hons) Computing Systems degree at Ulster University, alongside working for <a href="https://kainos.com">Kainos</a> as an Apprentice Software Engineer within the Healthcare sector 🏥.
 </p>
 <p align="center"> 
-When I'm not at work, you'll most likely find me chasing the norðurljós in my second home, Akureyri, or doing some linguistics stuff 🇮🇸.
+When I'm not at work, you'll most likely find me chasing the norðurljós in my second home, Akureyri, or messing around with linguistic reconstruction and conlanging 🇮🇸.
 </p>
 
 <div align="center">
