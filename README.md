@@ -17,6 +17,12 @@ When I'm not at work, you'll most likely find me chasing the norðurljós in my 
   
 </div>
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/784899654696566825)](https://discord.com/users/784899654696566825)
+
+</div>
+
 <h2 align="center">Preferred tech stack</h1>
 
 <div align="center">
