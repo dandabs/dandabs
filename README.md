@@ -46,14 +46,6 @@ When I'm not at work, you'll most likely find me chasing the norðurljós in my 
 
 </br>
 
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/784899654696566825)](https://discord.com/users/784899654696566825)
-
-</div>
-
-</br>
-
 <p align="center"> 
 Daniel Adams | Dónall Mac Ádhaimh | Daníel Smári Karenarson
 </p>
