@@ -43,3 +43,9 @@ When I'm not at work, you'll most likely find me chasing the norðurljós in my 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="50" />
 
 </div>
+
+</br>
+
+<p align="center"> 
+Daniel Adams | Dónall Mac Ádhaimh | Daníel Smári Karenarson
+</p>
