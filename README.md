@@ -1,4 +1,4 @@
-<img src="https://a.storyblok.com/f/53624/4096x1470/76d247772c/northern-lights_unsplash_4096x1470.jpg" height="200px" width="100%" />
+<img src="https://a.storyblok.com/f/53624/4096x1470/76d247772c/northern-lights_unsplash_4096x1470.jpg" height="150px" width="100%" />
 
 <h1 align="center">👋 Hæ! Ég er Danni 💅</h1>
 
