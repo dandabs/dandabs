@@ -1,35 +1,15 @@
-<!--
-**dandabs/dandabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hæ! Ég er Danni 💅</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+I'm a 19-year-old full-stack software engineer from Northern Ireland 🧑‍🎓. I’m studying towards a BSc (Hons) Computing Systems degree at Ulster University, alongside working for <a href="https://kainos.com">Kainos</a> as an Apprentice Software Engineer within the Healthcare sector 🏥.
+</p>
+<p align="center"> 
+When I'm not at work, you'll most likely find me chasing the norðurljós in my second home, Akureyri, or doing some linguistics stuff 🇮🇸.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Moi, olen Dan | Hæ, ég er Danni 👋
+<div align="center">
 
-I'm a 19 year old developer who is passionate about learning new things and creating cool stuff. I enjoy collaborating with other people to create even more useless projects.
-
-Some of my biggest projects include:
-
-- 🦮 Vesisika: an iOS and Android app for managing Minecraft servers on-the-go. Built with React-Native and deployed on Firebase.
-- 🎥 ÁAOcore: an open-source, adaptable software application for controlling cameras, lighting and pyrotechnics at televised live shows.
-- 🥶 IglooCode: a capture the flag competition for Northern Irish KS3 students, supported by Liberty IT, Kainos, and Queen's University.
-
-Outside of programming, I'm a very passionate linguist and aspire to be a polyglot. I love studying the morphology and phonology of Nordic languages and their evolutions from proto-languages to their modern day forms. I also enjoy writing and videography.
-
-## Get in touch 🌎:
-- Website + Portfolio <a href="https://dandabs.fi">https://dandabs.io</a>
-- Instagram <a href="https://instagram.com/dandabs">@dandabs</a>
-- LinkedIn <a href="https://linkedin.com/in/dandabs">Daniel Adams</a>
-- Discord dandabs
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dandabs&theme=dracula&hide=issues&count_private=true&show_icons=true&locale=en&custom_title=dandabs%27%20Github%20Stats&include_all_commits)
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dandabs&langs_count=8&layout=compact&theme=dracula)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/dandabs)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](discord://-/users/784899654696566825)
+  [![wakatime](https://wakatime.com/badge/user/ad864439-8a6b-4dbc-8240-50f24d30d433.svg?style=for-the-badge)](https://wakatime.com/@ad864439-8a6b-4dbc-8240-50f24d30d433)
+</div>
