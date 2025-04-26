@@ -47,5 +47,6 @@ When I'm not at work, you'll most likely find me chasing the norðurljós in my 
 </br>
 
 <p align="center"> 
-Daniel Adams | Dónall Mac Ádhaimh | Daníel Smári Karenarson
+Daniel Adams | Dónall Mac Ádhaimh | Daníel Smári Karenarson<br />
+Þóknun verkefna, kaup í forritum og leyfi fyrir greidda hugbúnaðinn minn eru veitt undir lögsögu Íslands undir kennitölu 050705-3660
 </p>
